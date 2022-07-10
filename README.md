@@ -2,6 +2,7 @@ VIDEO: https://www.youtube.com/watch?v=kJ4-O_P8PzY
 
 Hello, 
 My .onnx file was too big, so here's a link to it: https://drive.google.com/file/d/1j6Pq_DxVMUfHQNypcFeDcWnUlS9ZZul3/view?usp=sharing
+
 Here is the full type_ds dataset shown off in the video: https://drive.google.com/file/d/1YKTVv-XfZV-MyAtDX6hEWaHr9g32beGD/view?usp=sharing
 
 INSTRUCTIONS THAT I USED (Apparently you can do it easier using the .onnx from the start):

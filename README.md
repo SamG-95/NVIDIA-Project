@@ -7,8 +7,11 @@ Here is the full type_ds dataset shown off in the video: https://drive.google.co
 
 INSTRUCTIONS THAT I USED (Apparently you can do it easier using the .onnx from the start):
 
-1. Extract the type_ds dataset, and move it into 
+1a. Extract the type_ds dataset, and move it into 
 > jetson-inference/python/training/classification/data
+
+1b. Download the train.py file, and move it into
+> jetson-inference/python/training/classification
 
 2. On your nano, change directories into 
 > jetson-inference/python/training/classification/data

@@ -1,4 +1,4 @@
-VIDEO: [[https://www.youtube.com/watch?v=kJ4-O_P8PzY](https://youtu.be/A37AjYjmESU?si=e4vtvrxMQM02OSCs)](https://youtu.be/A37AjYjmESU?si=e4vtvrxMQM02OSCs)
+VIDEO: https://youtu.be/A37AjYjmESU?si=e4vtvrxMQM02OSCs
 
 Hello, 
 My .onnx file was too big, so here's a link to it: https://drive.google.com/file/d/1j6Pq_DxVMUfHQNypcFeDcWnUlS9ZZul3/view?usp=sharing
